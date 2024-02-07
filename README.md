@@ -20,7 +20,7 @@ ____
 
 
 
-Connect to and Customize Data: Connecting to Data
+**Connect to and Customize Data: Connecting to Data**
 
 **Objectives:**
 
