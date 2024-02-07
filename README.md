@@ -24,8 +24,8 @@ ____
 
 **Objectives:**
 
-Identify the types of data Tableau can connect to.
-Describe Tableau's default (live) connection to data and its impact on visualizations.
-Explain the process to connect to a data source.
-Describe the role of the data grid in editing metadata.
+* Identify the types of data Tableau can connect to.
+* Describe Tableau's default (live) connection to data and its impact on visualizations.
+* Explain the process to connect to a data source.
+* Describe the role of the data grid in editing metadata.
 
