@@ -50,5 +50,13 @@ ____
    * Change the data type for the Country field to the geographic role of Country/Region.
    * On the Sheet 1 worksheet, open a field's dropdown menu to view customization and other options there.
 
+In this module, you learned about types of data source connections and the difference between a live connection vs. an extract. 
+You got familiar with options on the Data Source page as well as in a Tableau worksheet. 
+You connected to a single data source, an Excel file, and loaded its data into Tableau. 
+Last, you saw how you might edit field metadata before working with the data to build a viz. 
+Now, you should feel ready to try this with a data source of your own.
+
+_____
+
 
 
