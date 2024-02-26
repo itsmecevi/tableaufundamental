@@ -39,10 +39,10 @@ ____
 * Explain the process to connect to a data source.
 * Describe the role of the data grid in editing metadata.
 
-1.  'Tableau data connections'
+1.  `Tableau data connections`
 
-    * Types of data connections
-    * Live connections vs. extracts
+    * `Types of data connections`
+    * `Live connections vs. extracts`
 
 2. Connect to a data source
 
