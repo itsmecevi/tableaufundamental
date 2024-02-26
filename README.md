@@ -1,5 +1,11 @@
 # tableaufundamental
 
+<span>&#129311;</span> Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
+
+<span>&#128202;</span> About Tableau Software -> [Click Here](https://www.tableau.com/about)
+
+<span>&#128201;</span> Technical Spesifications-> [Click Here](https://github.com/itsmecevi/Tableau-Technical-Specifications/blob/master/Tableau-Technical%20Specifications.pdf)
+
 ### Level-1
 
 **Learning Objective:**
