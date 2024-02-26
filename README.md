@@ -10,7 +10,7 @@
 
 ### Level-1
 
-**Learning Objective:**
+> **Learning Objective:**
 
 * Connect to your data and customize a data source.
 * Create a data extract.
