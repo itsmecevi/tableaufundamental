@@ -1,10 +1,11 @@
 # tableaufundamental
 
-<span>&#129311;</span> Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
+🤷‍♂️ Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
 
-<span>&#128202;</span> About Tableau Software -> [Click Here](https://www.tableau.com/about)
+📈 About Tableau Software -> [Click Here](https://www.tableau.com/about)
 
-<span>&#128201;</span> Technical Spesifications-> [Click Here](https://github.com/itsmecevi/Tableau-Technical-Specifications/blob/master/Tableau-Technical%20Specifications.pdf)
+
+🏫 Impact of the Implementation of ChatGPT in Education: A Systematic Review-> [Click Here](https://www.mdpi.com/2073-431X/12/8/153)
 
 ### Level-1
 
