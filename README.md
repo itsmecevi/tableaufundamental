@@ -39,7 +39,7 @@ ____
 * Explain the process to connect to a data source.
 * Describe the role of the data grid in editing metadata.
 
-1.  <span style="color:blue">Tableau</span> <span style="color:green">data</span> <span style="color:red">connections:</span>
+1.  'Tableau data connections'
 
     * Types of data connections
     * Live connections vs. extracts
