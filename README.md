@@ -8,11 +8,11 @@
 
 🤖 Don’t Ban ChatGPT in Schools. Teach With It-> [Click Here](https://www.nytimes.com/2023/01/12/technology/chatgpt-schools-teachers.html)
 
-### Level-1
+### Level-1: Fundamental
 
 > **Learning Objective:**
 
-   > Connect to your data and customize a data source.
+* Connect to your data and customize a data source.
 * Create a data extract.
 * Edit metadata; create groups and hierarchies in field data.
 * Sort and filter data.
