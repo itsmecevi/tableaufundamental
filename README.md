@@ -4,8 +4,9 @@
 
 📈 About Tableau Software -> [Click Here](https://www.tableau.com/about)
 
-
 🏫 Impact of the Implementation of ChatGPT in Education: A Systematic Review-> [Click Here](https://www.mdpi.com/2073-431X/12/8/153)
+
+🤖 Don’t Ban ChatGPT in Schools. Teach With It-> [Click Here](https://www.nytimes.com/2023/01/12/technology/chatgpt-schools-teachers.html)
 
 ### Level-1
 
