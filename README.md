@@ -8,7 +8,7 @@
 
 🤖 Don’t Ban ChatGPT in Schools. Teach With It-> [Click Here](https://www.nytimes.com/2023/01/12/technology/chatgpt-schools-teachers.html)
 
-### Level-1: Fundamental
+### Tableau Fundamental: Level-1
 
 > **Learning Objective:**
 
