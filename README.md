@@ -38,13 +38,15 @@ ____
 
 > Customizing a Data Source
 
-  * Work with metadata
-  * Organize fields into folders
-  * Convert fields from measures to dimensions
-  * Edit attributes
-  * Create aliases to rename members in the view
-  * Edit a field’s default properties (Tableau Desktop only)
-  * Tableau data sources (.tds file)
+  * `Work with metadata`
+  * `Organize fields into folders`
+  * `Convert fields from measures to dimensions`
+  * `Edit attributes`
+  * `Create aliases to rename members in the view`
+  * `Edit a field’s default properties (Tableau Desktop only)`
+  * `Tableau data sources (.tds file)`
+  * `Update the data`
+  * `.twb and .twbx file`
 
 > Working with a Data Extract
 
