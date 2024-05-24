@@ -31,9 +31,7 @@ ____
 > Connecting to Data
 
    * `Types of data connections`
-   * `Live connections vs. extracts`
-   * `Connect to a data source`
-   * The Data Source page
+   * `The Data Source page`
    * Manage metadata
    * Metadata grid
    * The Tableau workspace
