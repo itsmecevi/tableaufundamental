@@ -49,5 +49,7 @@ ____
   * `.twb and .twbx file`
 
 > Working with a Data Extract
+  * `.tde` and `.hyper` file
+  * `Try it!`
 
 
