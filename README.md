@@ -27,7 +27,8 @@ ____
 
 
 
-**Connect to and Customize Data: Connecting to Data**
+**Connect to and Customize Data:**
+> Connecting to Data
 
    * `Types of data connections`
    * `Live connections vs. extracts`
