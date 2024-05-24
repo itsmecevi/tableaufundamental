@@ -29,28 +29,15 @@ ____
 
 **Connect to and Customize Data: Connecting to Data**
 
-
-1.  Tableau data connections
-
-    * `Types of data connections`
-    * `Live connections vs. extracts`
-
-2. `Connect to a data source`
-
-3. Explore connected data:
+   * `Types of data connections`
+   * `Live connections vs. extracts`
+   * `Connect to a data source`
    * The Data Source page
    * Manage metadata
    * Metadata grid
    * The Tableau workspace
    * Refresh live data
-  
-4. Try it! Connect to a data source:
-   * Connect to the Excel file, data_connection_practice.xlsx.
-   * Rename the data source to "My Orders Data".
-   * Load the Orders sheet.
-   * Change these field names: Row to "Row ID" and Global Area to "Country".
-   * Change the data type for the Country field to the geographic role of Country/Region.
-   * On the Sheet 1 worksheet, open a field's dropdown menu to view customization and other options there.
+   * Try read data from Tableau with this dataset
 
 **Connect to and Customize Data: Customizing a Data Source**
 
