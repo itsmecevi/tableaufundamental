@@ -28,18 +28,16 @@ ____
 
 
 **Connect to and Customize Data:**
+
 > Connecting to Data
 
    * `Types of data connections`
    * `The Data Source page`
-   * Manage metadata
-   * Metadata grid
-   * The Tableau workspace
-   * Refresh live data
-   * Try read data from Tableau with this dataset
+   * `The Tableau workspace`
+   * `Try read data!`
 
-**Connect to and Customize Data: Customizing a Data Source**
+> Customizing a Data Source
 
-**Connect to and Customize Data: Working with a Data Extract**
+> Working with a Data Extract
 
 
